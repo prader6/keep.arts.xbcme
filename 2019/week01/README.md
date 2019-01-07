@@ -6,7 +6,7 @@
 
 ### 阅读点评(Review)
 
-#### [文章链接](https://www.tldp.org/LDP/abs/html/sha-bang.html)
+#### [Starting Off With a Sha-Bang](https://www.tldp.org/LDP/abs/html/sha-bang.html)
 
 #### 阅读笔记
 
@@ -65,7 +65,8 @@
 
 ### 分享(Share)
 
-#### [文章链接](https://time.geekbang.org/column/article/2795)
+#### [如何从错误中成长](https://time.geekbang.org/column/article/2795)
+
 #### 阅读笔记
 
 文章总结工作中可能会遇到的四大类错误：
@@ -83,7 +84,5 @@
 2. 为了避免无知错误，要做好信息的透明和共享。
 3. 为了避免粗心错误，设置一定的复盘机制。
 4. 为了避免高风险错误，所有的决定尽可能都有一个备用方案。
-
-#### 思考总结
 
 

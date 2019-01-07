@@ -6,7 +6,7 @@
 
 ### 阅读点评(Review)
 
-#### [文章链接](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04)
+#### [How To Add Swap Space on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04)
 
 #### 阅读笔记
 
@@ -27,7 +27,8 @@
 
 ##### 常用命令
 
-1. ```
+1.
+```
    sudo swapon -s 查看交换区概要
 
    free -m 显示内存使用信息
@@ -42,7 +43,7 @@
    sudo swapon /swapfile 启用交换区文件
    sudo cp /etc/fstab /etc/fstab.bak 备份fstab
    echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab 将交换区信息写入文件系统配置文件
-   ```
+```
 ##### 调优
 
 swappiness
@@ -86,7 +87,7 @@ swappiness
 
 ### 分享(Share)
 
-#### [文章链接](https://time.geekbang.org/column/article/802)
+#### [职场分身术：从给答案到做引导](https://time.geekbang.org/column/article/802)
 
 #### 思考总结
 
